@@ -1,0 +1,1 @@
+# demo-configuration-properties-bug

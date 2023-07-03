@@ -1,0 +1,8 @@
+package com.example.democonfigurationpropertiesbug.configuration
+
+import org.springframework.boot.context.properties.ConfigurationPropertiesScan
+import org.springframework.context.annotation.Configuration
+
+@Configuration
+@ConfigurationPropertiesScan("com.example.democonfigurationpropertiesbug.properties")
+class PropertiesConfiguration
